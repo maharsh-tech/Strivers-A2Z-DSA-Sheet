@@ -1,3 +1,6 @@
+// id : Maharsh Solanki
+// date : 2023-10-01
+//idk
 import java.util.Scanner;
 
 public class UserInputOutput {
